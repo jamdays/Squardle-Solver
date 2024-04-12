@@ -1,0 +1,1 @@
+# Squardle-Solver
